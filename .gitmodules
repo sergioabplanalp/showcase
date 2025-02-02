@@ -1,0 +1,3 @@
+[submodule "showcase-inventory"]
+	path = showcase-inventory
+	url = git@github.com:sergioabplanalp/showcase-inventory.git
