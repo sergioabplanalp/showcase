@@ -1,6 +1,3 @@
-[submodule "showcase-inventory"]
-	path = showcase-inventory
-	url = git@github.com:sergioabplanalp/showcase-inventory.git
-[submodule "showcase-order-projector"]
-	path = showcase-order-projector
-	url = git@github.com:sergioabplanalp/showcase-order-projector.git
+[submodule "identity"]
+	path = identity
+	url = git@github.com:sergioabplanalp/showcase-identity.git
