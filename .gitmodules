@@ -1,3 +1,9 @@
 [submodule "identity"]
 	path = identity
 	url = git@github.com:sergioabplanalp/showcase-identity.git
+[submodule "inventory"]
+	path = inventory
+	url = git@github.com:sergioabplanalp/showcase-inventory.git
+[submodule "order-projector"]
+	path = order-projector
+	url = git@github.com:sergioabplanalp/showcase-order-projector.git
