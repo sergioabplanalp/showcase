@@ -4,3 +4,6 @@
 [submodule "showcase-order-projector"]
 	path = showcase-order-projector
 	url = git@github.com:sergioabplanalp/showcase-order-projector.git
+[submodule "showcase-identity"]
+	path = showcase-identity
+	url = git@github.com:sergioabplanalp/showcase-identity.git
